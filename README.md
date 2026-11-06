@@ -6,7 +6,7 @@
 - 🔭 Сейчас работаю над улучшением навыков в алгоритмах и углубляю знания TypeScript.
 - 🌱 Изучаю: Next.js, TanStack Query.
 - 💬 Использую AI-инструменты (GitHub Copilot, ChatGPT) для ускорения разработки и генерации тестов.
-- 📫 Как со мной связаться: [Email](mailto:lazarev1501@mail.ru) | [hh.ru](ссылка_на_твое_резюме_hh)
+- 📫 Как со мной связаться: [Telegram](https://t.me/ou5st) | [Email](mailto:lazarev1501@mail.ru)
 
 ---
 
@@ -38,4 +38,4 @@
 
 ### 📈 Моя статистика на GitHub:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarev1501&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lazarev1501&theme=radical)
